@@ -3,12 +3,12 @@
 Senior Laravel / PHP developer and team lead with 8+ years of experience building and maintaining web applications and REST APIs. Based in Tirupur, Tamil Nadu, India. Working remotely.
 
 ## **What I do**
--**Laravel and PHP development**: MVC applications, REST APIs, Sanctum and OAuth authentication, queues and background jobs
--**Payments and integrations**: Razorpay payment gateway, webhooks, third-party APIs
--**Databases and performance**: MySQL and PostgreSQL schema design, indexing and query optimisation, Redis caching and distributed locks
--**AI and vector search**: face search with Python, InsightFace and Qdrant (GPU embeddings, similarity search on 2 million+ images in production)
--**Servers and deployment**: Linux, nginx, Docker, shell scripting
--**Team leadership**: code reviews and mentoring developers
+- **Laravel and PHP development**: MVC applications, REST APIs, Sanctum and OAuth authentication, queues and background jobs
+- **Payments and integrations**: Razorpay payment gateway, webhooks, third-party APIs
+- **Databases and performance**: MySQL and PostgreSQL schema design, indexing and query optimisation, Redis caching and distributed locks
+- **AI and vector search**: face search with Python, InsightFace and Qdrant (GPU embeddings, similarity search on 2 million+ images in production)
+- **Servers and deployment**: Linux, nginx, Docker, shell scripting
+- **Team leadership**: code reviews and mentoring developers
 
 ## **Tech I work with**
 
